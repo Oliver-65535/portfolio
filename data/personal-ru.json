@@ -1,0 +1,46 @@
+{
+  "name": "Олег Тарасов",
+  "title": "Backend Developer",
+  "subtitle": "Node.js • TypeScript • NestJS • Blockchain",
+  "bio": "Опытный backend разработчик с 3+ годами опыта создания масштабируемых веб-приложений, API и блокчейн решений. Специализируюсь на Node.js, TypeScript, NestJS и Web3 технологиях.",
+  "avatar": "/avatar/avatar.jpg?height=300&width=300",
+  "availability": "Открыт для новых проектов",
+  "skills": [
+    { "name": "Node.js" },
+    { "name": "TypeScript" },
+    { "name": "NestJS" },
+    { "name": "Express.js" },
+    { "name": "PostgreSQL" },
+    { "name": "MongoDB" },
+    { "name": "Redis" },
+    { "name": "Docker" },
+    { "name": "Web3.js" },
+    { "name": "GraphQL" },
+    { "name": "REST API" },
+    { "name": "Микросервисы" },
+    { "name": "Blockchain" },
+    { "name": "Smart Contracts" },
+    { "name": "DeFi" },
+    { "name": "NFT" },
+    { "name": "IPFS" },
+    { "name": "RabbitMQ" },
+    { "name": "TypeORM" },
+    { "name": "Solana" },
+    { "name": "Ethereum" },
+    { "name": "Polygon" }
+  ],
+  "experience": [
+    {
+      "company": "RadianceTeam",
+      "position": "Senior Blockchain Developer",
+      "period": "2022 - настоящее время",
+      "description": "Разработка DeFi платформ, NFT решений, криптовалютных мостов и блокчейн приложений. Работа с Everscale, Ethereum, Solana, Polygon сетями."
+    },
+    {
+      "company": "SFXDX",
+      "position": "Backend Developer",
+      "period": "2020 - 2022",
+      "description": "Создание финтех приложений, P2P платформ, краудфандинг решений. Интеграция с внешними API, разработка микросервисной архитектуры."
+    }
+  ]
+}

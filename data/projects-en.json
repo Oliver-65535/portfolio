@@ -1,0 +1,401 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "WorkConnect (Mehan)",
+      "shortDescription": "Platform for automating employer-worker interactions",
+      "description": "Platform for automating employer and worker interactions. Features secure transaction algorithm like escrow. Includes chat with interactive actions (contract conclusion, etc.), admin.js integration, Algolia integration, partial Stripe integration, Google calendar event creation and import.",
+      "screenshots": [
+        "/portfolio/sfxdx/workconnect/img/1.jpeg",
+        "/portfolio/sfxdx/workconnect/img/2.jpeg",
+        "/portfolio/sfxdx/workconnect/img/3.jpeg",
+        "/portfolio/sfxdx/workconnect/img/4.jpeg",
+        "/portfolio/sfxdx/workconnect/img/5.jpeg",
+        "/portfolio/sfxdx/workconnect/img/6.jpeg",
+        "/portfolio/sfxdx/workconnect/img/7.jpeg",
+        "/portfolio/sfxdx/workconnect/img/8.jpeg",
+        "/portfolio/sfxdx/workconnect/img/9.jpeg",
+        "/portfolio/sfxdx/workconnect/img/10.jpg"
+      ],
+      "technologies": [
+        "NestJS",
+        "PostgreSQL",
+        "TypeORM",
+        "Redis",
+        "RabbitMQ",
+        "Stripe",
+        "Algolia",
+        "Admin.js",
+        "Google Calendar"
+      ],
+      "location": "UAE",
+      "features": [
+        "Interaction automation",
+        "Escrow secure transactions",
+        "Interactive chat",
+        "Contract conclusion",
+        "Algolia search",
+        "Google Calendar integration"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "demo": "https://workconnect.sfxdx.com",
+        "docs": "https://www.figma.com/design/QV1Qw9aMEm9rbzeAtvMIyH/Mehan-2.0-public?node-id=797-82175&p=f&t=s6jASXUOLxbUBT40-0"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Pearlstarter",
+      "shortDescription": "Crowdfunding platform with blockchain integration",
+      "description": "Crowdfunding platform including blockchain capabilities. Any user can create a post about their startup. Investors will see it and if interested can invest, then receive dividends. The platform includes dispute resolution handling.",
+      "screenshots": [
+        "/portfolio/sfxdx/pearlstarter/img/1.jpeg",
+        "/portfolio/sfxdx/pearlstarter/img/2.jpeg",
+        "/portfolio/sfxdx/pearlstarter/img/3.jpeg",
+        "/portfolio/sfxdx/pearlstarter/img/4.jpeg",
+        "/portfolio/sfxdx/pearlstarter/img/5.jpeg",
+        "/portfolio/sfxdx/pearlstarter/img/6.jpeg",
+        "/portfolio/sfxdx/pearlstarter/img/7.jpeg",
+        "/portfolio/sfxdx/pearlstarter/img/8.jpeg",
+        "/portfolio/sfxdx/pearlstarter/img/9.jpeg",
+        "/portfolio/sfxdx/pearlstarter/img/10.jpeg",
+        "/portfolio/sfxdx/pearlstarter/img/11.jpeg",
+        "/portfolio/sfxdx/pearlstarter/img/12.jpeg"
+      ],
+      "technologies": ["NestJS", "PostgreSQL", "TypeORM", "Redis", "RabbitMQ", "Stripe", "Admin.js"],
+      "location": "UAE",
+      "features": [
+        "Startup crowdfunding",
+        "Blockchain integration",
+        "Investments and dividends",
+        "Dispute handling",
+        "Admin.js integration",
+        "Notifications"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "demo": "https://pearlstarter.sfxdx.com"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Bittensor Bridge",
+      "shortDescription": "Cryptocurrency bridge between Bittensor and Solana",
+      "description": "Cryptocurrency bridge between Bittensor network and Solana. Allows buying or selling TAO tokens in the network. TAO tokens are mainly used to pay for AI computing power. Includes Bittensor Listener (event recovery and real-time processing), duplicate protection and processing, proxy wallet service.",
+      "screenshots": [
+        "/portfolio/sfxdx/bittensor/img/1.jpg",
+        "/portfolio/sfxdx/bittensor/img/2.jpg",
+        "/portfolio/sfxdx/bittensor/img/3.jpg"
+      ],
+      "technologies": ["NestJS", "PostgreSQL", "TypeORM", "Redis", "Web3.js", "Bittensor", "Solana"],
+      "location": "USA",
+      "features": [
+        "Bittensor-Solana bridge",
+        "TAO token trading",
+        "AI computation payments",
+        "Real-time processing",
+        "Duplicate protection",
+        "Proxy wallets"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "github": "https://github.com/username/bittensor-bridge"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Gintonic",
+      "shortDescription": "GPU power rental service for AI",
+      "description": "Service that allows connecting to a distributed computing network, providing GPU power for rent and receiving rewards for it. Network users can run training of their artificial intelligence models, paying for resources with special tokens.",
+      "screenshots": [
+        "/portfolio/sfxdx/gintonic/img/1.jpg"
+      ],
+      "technologies": ["Distributed Computing", "GPU", "AI", "Machine Learning", "Blockchain"],
+      "location": "USA",
+      "features": [
+        "GPU power rental",
+        "Distributed computing",
+        "AI model training",
+        "Tokenized payments",
+        "Provider rewards",
+        "Scalable network"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "demo": "https://console.gintonic.ai"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Archon (PrivateAI)",
+      "shortDescription": "AI platform for scientists with graph knowledge structure",
+      "description": "Platform for scientists and researchers. The platform is based on graphs that visualize and structure information in graph form, simplifying the search for needed information. The platform allows article owners to store their articles in encrypted form, make paid access or simply provide access on request. The application builds a graph from the article using AI. There's a chat with a bot that answers questions about each article. Each article is converted to a graph upon upload, and the original is encrypted with the user's personal RSA key. There's arXiv integration.",
+      "screenshots": [
+        "/portfolio/sfxdx/privateai/img/1.jpeg",
+        "/portfolio/sfxdx/privateai/img/2.jpeg",
+        "/portfolio/sfxdx/privateai/img/3.jpeg",
+        "/portfolio/sfxdx/privateai/img/4.jpeg",
+        "/portfolio/sfxdx/privateai/img/5.jpeg",
+        "/portfolio/sfxdx/privateai/img/6.jpeg",
+        "/portfolio/sfxdx/privateai/img/7.jpeg",
+        "/portfolio/sfxdx/privateai/img/8.jpeg",
+        "/portfolio/sfxdx/privateai/img/9.jpeg",
+        "/portfolio/sfxdx/privateai/img/10.jpeg",
+        "/portfolio/sfxdx/privateai/img/11.jpeg"
+      ],
+      "technologies": ["NestJS", "PostgreSQL", "TypeORM", "RabbitMQ", "Redis", "Web3.js", "PGP", "FastAPI", "AI"],
+      "location": "USA",
+      "features": [
+        "Graph knowledge structure",
+        "AI chat assistant",
+        "RSA article encryption",
+        "arXiv integration",
+        "Full-text search",
+        "Points and likes system",
+        "Access requests",
+        "Rate limiting"
+      ],
+      "demoVideo": "/portfolio/sfxdx/privateai/video/privateai.mp4",
+      "links": {
+        "demo": "https://www.privateai.com"
+      }
+    },
+    {
+      "id": 6,
+      "title": "DIONE Blockchain",
+      "shortDescription": "Creation and launch of blockchain based on Avalanche",
+      "description": "Creation and launch of a full blockchain based on Avalanche. Development of explorer for it. Includes launching ready-made Blockscout indexer, modification for this network's features, development of indexer for missing chains.",
+      "screenshots": ["/placeholder.svg?height=400&width=600", "/placeholder.svg?height=400&width=600"],
+      "technologies": ["Elixir", "NestJS", "PostgreSQL", "TypeORM", "Avalanche", "Blockscout"],
+      "location": "USA",
+      "features": [
+        "Full blockchain",
+        "Avalanche foundation",
+        "Blockchain explorer",
+        "Blockscout indexer",
+        "Custom modifications",
+        "Transaction indexing"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "demo": "https://dione-explorer.example.com"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Stargate Multi Bridge",
+      "shortDescription": "Multi-cryptocurrency bridge for multiple networks",
+      "description": "Multi-cryptocurrency bridge allowing token transfers from multiple networks to others. Includes listener for ETH, Polygon, BSC networks, transaction storage and linking, past transaction recovery, transaction execution across different networks.",
+      "screenshots": ["/placeholder.svg?height=400&width=600", "/placeholder.svg?height=400&width=600"],
+      "technologies": ["NestJS", "PostgreSQL", "MongoDB", "TypeORM", "RabbitMQ", "Redis", "Web3.js"],
+      "location": "USA",
+      "features": [
+        "Multiple network support",
+        "ETH, Polygon, BSC listener",
+        "Transaction linking",
+        "Data recovery",
+        "Multi-network operations",
+        "Scalable architecture"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "demo": "https://stargate-bridge.example.com"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Cryptomod Bridge",
+      "shortDescription": "Cryptocurrency bridge between blockchain networks",
+      "description": "Cryptocurrency bridge allowing token transfers from one network to another. Includes listener for Polygon networks, transaction storage and linking, past transaction recovery, Telegram bot for critical error notifications and low bridge balance, token transfer transaction execution.",
+      "screenshots": ["/placeholder.svg?height=400&width=600", "/placeholder.svg?height=400&width=600"],
+      "technologies": ["NestJS", "PostgreSQL", "TypeORM", "RabbitMQ", "Redis", "Web3.js", "Telegram Bot"],
+      "location": "USA",
+      "features": [
+        "Cross-chain transfers",
+        "Polygon listener",
+        "Transaction recovery",
+        "Telegram notifications",
+        "Balance monitoring",
+        "Automatic transfers"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "github": "https://github.com/username/cryptomod-bridge"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Nanotrade",
+      "shortDescription": "Cryptocurrency exchange with investment tokens",
+      "description": "Cryptocurrency exchange combined with special project tokens that can be purchased, thereby investing in the project. Then receive dividends. These tokens can also be sold and bought like on a regular exchange.",
+      "screenshots": ["/placeholder.svg?height=400&width=600", "/placeholder.svg?height=400&width=600"],
+      "technologies": ["NestJS", "PostgreSQL", "Subgraph", "Redis", "Web3.js"],
+      "location": "USA",
+      "features": [
+        "Cryptocurrency exchange",
+        "Investment tokens",
+        "Project dividends",
+        "Blockchain listener",
+        "Order matching",
+        "Token trading"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "demo": "https://nanotrade-demo.example.com"
+      }
+    },
+    {
+      "id": 10,
+      "title": "BeeJoy",
+      "shortDescription": "P2P fiat currency exchange through blockchain",
+      "description": "Application for p2p exchange of fiat to fiat through blockchain systems. The application allows exchanging dollars to dirhams by first converting dollars to cryptocurrency, then from cryptocurrency to dirhams. The application requires operator participation for validation and operations that require human involvement.",
+      "screenshots": ["/placeholder.svg?height=400&width=600", "/placeholder.svg?height=400&width=600"],
+      "technologies": ["NestJS", "PostgreSQL", "TypeORM", "Redis", "Web3.js"],
+      "location": "UAE",
+      "features": [
+        "P2P currency exchange",
+        "Fiat to cryptocurrency",
+        "Operator validation",
+        "User profiles",
+        "Rate service",
+        "Secure transactions"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "demo": "https://beejoy-demo.example.com"
+      }
+    },
+    {
+      "id": 11,
+      "title": "BBirth",
+      "shortDescription": "Decentralized application for medical records",
+      "description": "Decentralized application that connects medical records with blockchain. They are stored in IPFS ensuring reliable and long-term storage. The record serves as an NFT ensuring ownership rights and access control.",
+      "screenshots": ["/placeholder.svg?height=400&width=600", "/placeholder.svg?height=400&width=600"],
+      "technologies": ["NestJS", "PostgreSQL", "TypeORM", "Redis", "Web3.js", "IPFS", "NFT"],
+      "location": "USA",
+      "features": [
+        "Blockchain medical records",
+        "IPFS storage",
+        "NFT ownership",
+        "Access control",
+        "Data security",
+        "Long-term storage"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "github": "https://github.com/username/bbirth"
+      }
+    },
+    {
+      "id": 12,
+      "title": "NFT ART Generator",
+      "shortDescription": "Full-featured NFT platform for creation and trading",
+      "description": "Full-featured NFT platform allowing creation of NFT images, generation, minting and selling, with marketplace and filters. Includes blockchain parser development and storage (backend), image editor creation - layer composition, drag&drop layers, project upload and save, IPFS upload and progress calculation. Optimized NFT generation algorithm - from 10 minutes to 5 seconds.",
+      "screenshots": [
+        "/portfolio/radianceteam/nft-art-generator/img/1.jpeg",
+        "/portfolio/radianceteam/nft-art-generator/img/2.jpeg"
+      ],
+      "technologies": ["NestJS", "PostgreSQL", "TypeORM", "GraphQL", "Web3.js", "IPFS"],
+      "location": "USA",
+      "features": [
+        "NFT creation and generation",
+        "Image editor",
+        "Drag & Drop layers",
+        "Trading marketplace",
+        "IPFS integration",
+        "Optimized algorithms"
+      ],
+      "demoVideo": "https://www.youtube.com/watch?v=RsrmjFJv8Do",
+      "links": {
+        "demo": "https://nft-art-publisher.com/nft-market"
+      }
+    },
+    {
+      "id": 13,
+      "title": "Bounty Board (Trello Plugin)",
+      "shortDescription": "Blockchain plugin for Trello with automated payments",
+      "description": "Trello plugin that integrates blockchain capabilities into Trello service. Automates and secures transactions between workers and employers. Allows attaching specific amounts of money to each card. Any worker can click to take a task and connect their wallet. Upon task completion, money automatically arrives to their wallet. Algorithm is very similar to escrow.",
+      "screenshots": [
+        "/portfolio/radianceteam/bounty-board/img/1.jpeg",
+        "/portfolio/radianceteam/bounty-board/img/2.jpeg",
+        "/portfolio/radianceteam/bounty-board/img/3.jpeg",
+        "/portfolio/radianceteam/bounty-board/img/4.jpeg",
+        "/portfolio/radianceteam/bounty-board/img/5.jpeg",
+        "/portfolio/radianceteam/bounty-board/img/6.jpeg",
+        "/portfolio/radianceteam/bounty-board/img/7.jpeg",
+        "/portfolio/radianceteam/bounty-board/img/8.jpeg",
+        "/portfolio/radianceteam/bounty-board/img/9.jpeg",
+        "/portfolio/radianceteam/bounty-board/img/10.jpeg",
+        "/portfolio/radianceteam/bounty-board/img/11.jpeg",
+        "/portfolio/radianceteam/bounty-board/img/12.jpeg",
+        "/portfolio/radianceteam/bounty-board/img/13.jpeg",
+        "/portfolio/radianceteam/bounty-board/img/14.jpeg",
+        "/portfolio/radianceteam/bounty-board/img/15.jpeg",
+        "/portfolio/radianceteam/bounty-board/img/16.jpeg",
+        "/portfolio/radianceteam/bounty-board/img/17.jpeg",
+        "/portfolio/radianceteam/bounty-board/img/18.jpeg",
+        "/portfolio/radianceteam/bounty-board/img/19.jpeg",
+        "/portfolio/radianceteam/bounty-board/img/20.jpeg",
+        "/portfolio/radianceteam/bounty-board/img/21.jpeg"
+      ],
+      "technologies": ["Trello API", "Smart Contracts", "Web3.js", "Escrow", "Blockchain"],
+      "location": "USA",
+      "features": [
+        "Trello integration",
+        "Automatic payments",
+        "Escrow mechanism",
+        "Wallet binding",
+        "Secure transactions",
+        "Task management"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "github": "https://github.com/username/bounty-board"
+      }
+    },
+    {
+      "id": 14,
+      "title": "Airdrop DApp",
+      "shortDescription": "Decentralized application for mass token distribution",
+      "description": "Small decentralized application that allows quick distribution of individual token amounts to a large number of recipients from your wallet. Can simplify routine operations like reward distribution or even salary payments.",
+      "screenshots": [
+        "/portfolio/radianceteam/airdrop/img/1.jpg"
+      ],
+      "technologies": ["React.js", "Web3.js", "Smart Contracts", "Ethereum", "MetaMask"],
+      "location": "Russia",
+      "features": [
+        "Mass token distribution",
+        "Individual amounts per recipient",
+        "Wallet integration",
+        "Payment automation",
+        "Simple interface",
+        "Gas optimization"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "demo": "https://airdrop-demo.example.com"
+      }
+    },
+    {
+      "id": 15,
+      "title": "Defispace",
+      "shortDescription": "Decentralized financial service (DeFi) on Everscale blockchain",
+      "description": "Full-featured DeFi platform running on Everscale (FreeTON) blockchain, allowing token swaps within the network, cross-chain token transfers (bridge), asset trading and staking. Contains all elements of a standard cryptocurrency exchange (similar to Uniswap).",
+      "screenshots": ["/placeholder.svg?height=400&width=600", "/placeholder.svg?height=400&width=600"],
+      "technologies": ["Everscale", "FreeTON", "DeFi", "Smart Contracts", "Web3", "Blockchain"],
+      "location": "USA",
+      "features": [
+        "Token swaps within network",
+        "Cross-chain bridges",
+        "Asset trading",
+        "Token staking",
+        "Farming pools",
+        "Decentralized architecture"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "github": "https://github.com/radianceteam/defispace"
+      }
+    }
+  ]
+}

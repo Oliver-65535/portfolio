@@ -1,0 +1,376 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "WorkConnect (Mehan)",
+      "shortDescription": "Платформа автоматизации взаимодействия работодателей и работников",
+      "description": "Платформа для автоматизации взаимодействия работодателя и работников. Предусматривает алгоритм безопасных сделок по типу escrow. Включает чат с интерактивными действиями (заключение контракта и прочее), интеграцию admin.js (админки), интеграцию Algolia, частичную интеграцию Stripe, создание и импорт события календаря Google.",
+      "screenshots": [
+        "/portfolio/sfxdx/workconnect/img/1.jpeg",
+        "/portfolio/sfxdx/workconnect/img/2.jpeg",
+        "/portfolio/sfxdx/workconnect/img/3.jpeg",
+        "/portfolio/sfxdx/workconnect/img/4.jpeg",
+        "/portfolio/sfxdx/workconnect/img/5.jpeg",
+        "/portfolio/sfxdx/workconnect/img/6.jpeg",
+        "/portfolio/sfxdx/workconnect/img/7.jpeg",
+        "/portfolio/sfxdx/workconnect/img/8.jpeg",
+        "/portfolio/sfxdx/workconnect/img/9.jpeg",
+        "/portfolio/sfxdx/workconnect/img/10.jpg"
+      ],"technologies": [
+        "NestJS",
+        "PostgreSQL",
+        "TypeORM",
+        "Redis",
+        "RabbitMQ",
+        "Stripe",
+        "Algolia",
+        "Admin.js",
+        "Google Calendar"
+      ],
+      "location": "ОАЭ",
+      "features": [
+        "Автоматизация взаимодействий",
+        "Escrow безопасные сделки",
+        "Интерактивный чат",
+        "Заключение контрактов",
+        "Поиск Algolia",
+        "Интеграция календаря Google"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "demo": "https://workconnect.sfxdx.com",
+        "docs": "https://www.figma.com/design/QV1Qw9aMEm9rbzeAtvMIyH/Mehan-2.0-public?node-id=797-82175&p=f&t=s6jASXUOLxbUBT40-0"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Pearlstarter",
+      "shortDescription": "Краудфандинговая платформа с интеграцией блокчейна",
+      "description": "Краудфандинговая платформа, включающая возможности блокчейна. Любой пользователь может создать пост о своем стартапе. Инвесторы увидят его и, если заинтересуются, смогут инвестировать, а затем получать дивиденды. Платформа включает в себя обработку разрешения споров.",
+      "screenshots": [
+        "/portfolio/sfxdx/pearlstarter/img/1.jpeg",
+        "/portfolio/sfxdx/pearlstarter/img/2.jpeg",
+        "/portfolio/sfxdx/pearlstarter/img/3.jpeg",
+        "/portfolio/sfxdx/pearlstarter/img/4.jpeg",
+        "/portfolio/sfxdx/pearlstarter/img/5.jpeg",
+        "/portfolio/sfxdx/pearlstarter/img/6.jpeg",
+        "/portfolio/sfxdx/pearlstarter/img/7.jpeg",
+        "/portfolio/sfxdx/pearlstarter/img/8.jpeg",
+        "/portfolio/sfxdx/pearlstarter/img/9.jpeg",
+        "/portfolio/sfxdx/pearlstarter/img/10.jpeg",
+        "/portfolio/sfxdx/pearlstarter/img/11.jpeg",
+        "/portfolio/sfxdx/pearlstarter/img/12.jpeg"
+      ],
+      "technologies": ["NestJS", "PostgreSQL", "TypeORM", "Redis", "RabbitMQ", "Stripe", "Admin.js"],
+      "location": "ОАЭ",
+      "features": [
+        "Краудфандинг стартапов",
+        "Блокчейн интеграция",
+        "Инвестиции и дивиденды",
+        "Обработка споров",
+        "Admin.js интеграция",
+        "Уведомления"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "demo": "https://pearlstarter.sfxdx.com"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Bittensor Bridge",
+      "shortDescription": "Криптовалютный мост между Bittensor и Solana",
+      "description": "Криптовалютный мост между сетью Bittensor и Solana. Позволяет покупать токены TAO в сети или продавать. Токены TAO в основном служат для оплаты вычислительной мощности ИИ. Включает Listener Bittensor (восстановление событий и обработка в реальном времени), защиту и обработку дубликатов, сервис прокси-кошельков.",
+      "screenshots": [
+        "/portfolio/sfxdx/bittensor/img/1.jpg",
+        "/portfolio/sfxdx/bittensor/img/2.jpg",
+        "/portfolio/sfxdx/bittensor/img/3.jpg"
+      ],
+      "technologies": ["NestJS", "PostgreSQL", "TypeORM", "Redis", "Web3.js", "Bittensor", "Solana"],
+      "location": "США",
+      "features": [
+        "Мост Bittensor-Solana",
+        "Торговля токенами TAO",
+        "Оплата AI вычислений",
+        "Real-time обработка",
+        "Защита от дубликатов",
+        "Прокси-кошельки"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "github": "https://github.com/username/bittensor-bridge"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Gintonic",
+      "shortDescription": "Сервис аренды GPU-мощностей для ИИ",
+      "description": "Сервис, позволяющий подключаться к распределенной вычислительной сети, предоставлять GPU-мощности в аренду и получать за это вознаграждение. Пользователи сети могут запускать обучение своих моделей искусственного интеллекта, оплачивая ресурсы специальными токенами.",
+      "screenshots": [
+        "/portfolio/sfxdx/gintonic/img/1.jpg"
+      ],
+      "technologies": ["Distributed Computing", "GPU", "AI", "Machine Learning", "Blockchain"],
+      "location": "США",
+      "features": [
+        "Аренда GPU-мощностей",
+        "Распределенные вычисления",
+        "Обучение AI моделей",
+        "Токенизированные платежи",
+        "Вознаграждения провайдерам",
+        "Масштабируемая сеть"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "demo": "https://console.gintonic.ai"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Archon (PrivateAI)",
+      "shortDescription": "AI платформа для ученых с графовой структурой знаний",
+      "description": "Платформа для ученых и исследователей. Платформа основывается на графах, которые визуализируют и структурируют информацию в виде графа, что упрощает поиск нужной информации. Платформа позволяет владельцам статей хранить свои статьи в зашифрованном виде, сделать платный доступ или просто предоставлять доступ по запросу. Приложение строит из статьи граф с помощью AI. Есть чат с ботом, который отвечает на вопросы по каждой статье. Каждая статья при загрузке преобразуется в граф, а оригинал шифруется личным RSA ключом пользователя. Есть интеграция с arXiv.",
+      "screenshots": [
+        "/portfolio/sfxdx/privateai/img/1.jpeg",
+        "/portfolio/sfxdx/privateai/img/2.jpeg",
+        "/portfolio/sfxdx/privateai/img/3.jpeg",
+        "/portfolio/sfxdx/privateai/img/4.jpeg",
+        "/portfolio/sfxdx/privateai/img/5.jpeg",
+        "/portfolio/sfxdx/privateai/img/6.jpeg",
+        "/portfolio/sfxdx/privateai/img/7.jpeg",
+        "/portfolio/sfxdx/privateai/img/8.jpeg",
+        "/portfolio/sfxdx/privateai/img/9.jpeg",
+        "/portfolio/sfxdx/privateai/img/10.jpeg",
+        "/portfolio/sfxdx/privateai/img/11.jpeg"
+      ],
+      "technologies": ["NestJS", "PostgreSQL", "TypeORM", "RabbitMQ", "Redis", "Web3.js", "PGP", "FastAPI", "AI"],
+      "location": "США",
+      "features": [
+        "Графовая структура знаний",
+        "AI чат-ассистент",
+        "Шифрование статей RSA",
+        "Интеграция с arXiv",
+        "Полнотекстовый поиск",
+        "Система баллов и лайков",
+        "Запросы доступа",
+        "Rate limiting"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "demo": "https://archon-ai.example.com"
+      }
+    },
+    {
+      "id": 6,
+      "title": "DIONE Blockchain",
+      "shortDescription": "Создание и запуск блокчейна на основе Avalanche",
+      "description": "Создание и запуск полноценного блокчейна на основе Avalanche. Разработка explorer для него. Включает запуск готового индексатора Blockscout, модификацию под особенности этой сети, разработка индексатора под недостающие цепи.",
+      "screenshots": ["/placeholder.svg?height=400&width=600", "/placeholder.svg?height=400&width=600"],
+      "technologies": ["Elixir", "NestJS", "PostgreSQL", "TypeORM", "Avalanche", "Blockscout"],
+      "location": "США",
+      "features": [
+        "Полноценный блокчейн",
+        "Основа на Avalanche",
+        "Blockchain explorer",
+        "Blockscout индексатор",
+        "Кастомные модификации",
+        "Индексация транзакций"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "demo": "https://dione-explorer.example.com"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Stargate Multi Bridge",
+      "shortDescription": "Мульти-криптовалютный мост для множества сетей",
+      "description": "Мульти-криптовалютный мост, позволяющий переносить токены из множества сетей в другие. Включает listener для сетей ETH, Polygon, BSC, сохранение и связку транзакций, восстановление прошлых транзакций, выполнение транзакций в разных сетях.",
+      "screenshots": ["/placeholder.svg?height=400&width=600", "/placeholder.svg?height=400&width=600"],
+      "technologies": ["NestJS", "PostgreSQL", "MongoDB", "TypeORM", "RabbitMQ", "Redis", "Web3.js"],
+      "location": "США",
+      "features": [
+        "Поддержка множества сетей",
+        "ETH, Polygon, BSC listener",
+        "Связка транзакций",
+        "Восстановление данных",
+        "Мульти-сетевые операции",
+        "Масштабируемая архитектура"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "demo": "https://stargate-bridge.example.com"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Cryptomod Bridge",
+      "shortDescription": "Криптовалютный мост между блокчейн сетями",
+      "description": "Криптовалютный мост, позволяющий переносить токены из одной сети в другую. Включает listener для сетей Polygon, сохранение и связку транзакций, восстановление прошлых транзакций, Telegram bot для оповещения критических ошибок и низкого баланса моста, выполнение транзакций перевода токенов.",
+      "screenshots": ["/placeholder.svg?height=400&width=600", "/placeholder.svg?height=400&width=600"],
+      "technologies": ["NestJS", "PostgreSQL", "TypeORM", "RabbitMQ", "Redis", "Web3.js", "Telegram Bot"],
+      "location": "США",
+      "features": [
+        "Межсетевые переводы",
+        "Polygon listener",
+        "Восстановление транзакций",
+        "Telegram уведомления",
+        "Мониторинг баланса",
+        "Автоматические переводы"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "github": "https://github.com/username/cryptomod-bridge"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Nanotrade",
+      "shortDescription": "Криптовалютная биржа с инвестиционными токенами",
+      "description": "Криптовалютная биржа, совмещенная со специальными токенами-проектами, которые можно покупать, тем самым инвестируя в проект. Затем получать дивиденды. Также можно эти токены продавать и покупать как на обычной бирже.",
+      "screenshots": ["/placeholder.svg?height=400&width=600", "/placeholder.svg?height=400&width=600"],
+      "technologies": ["NestJS", "PostgreSQL", "Subgraph", "Redis", "Web3.js"],
+      "location": "США",
+      "features": [
+        "Криптовалютная биржа",
+        "Инвестиционные токены",
+        "Дивиденды от проектов",
+        "Прослушиватель блокчейн",
+        "Мэтчинг ордеров",
+        "Торговля токенами"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "demo": "https://nanotrade-demo.example.com"
+      }
+    },
+    {
+      "id": 10,
+      "title": "BeeJoy",
+      "shortDescription": "P2P обмен фиатных валют через блокчейн",
+      "description": "Приложение для p2p обмена средств фиат на фиат через системы блокчейн. Приложение позволяет осуществлять обмен долларов на дирхамы, переводя сначала доллары в криптовалюту, затем из криптовалюты в дирхамы. Приложение требует участия оператора для валидации и операций, которые требуют участия человека.",
+      "screenshots": ["/placeholder.svg?height=400&width=600", "/placeholder.svg?height=400&width=600"],
+      "technologies": ["NestJS", "PostgreSQL", "TypeORM", "Redis", "Web3.js"],
+      "location": "ОАЭ",
+      "features": [
+        "P2P обмен валют",
+        "Фиат в криптовалюту",
+        "Операторская валидация",
+        "Профиль пользователя",
+        "Сервис получения курсов",
+        "Безопасные транзакции"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "demo": "https://beejoy-demo.example.com"
+      }
+    },
+    {
+      "id": 11,
+      "title": "BBirth",
+      "shortDescription": "Децентрализованное приложение для медицинских карт",
+      "description": "Децентрализованное приложение, которое связывает медицинские карточки с блокчейн. Они хранятся в IPFS, обеспечивая тем самым надежное и долгосрочное хранение. Карточка является как NFT, обеспечивает право владения и контроль доступа.",
+      "screenshots": ["/placeholder.svg?height=400&width=600", "/placeholder.svg?height=400&width=600"],
+      "technologies": ["NestJS", "PostgreSQL", "TypeORM", "Redis", "Web3.js", "IPFS", "NFT"],
+      "location": "США",
+      "features": [
+        "Блокчейн медицинские карты",
+        "Хранение в IPFS",
+        "NFT владение",
+        "Контроль доступа",
+        "Безопасность данных",
+        "Долгосрочное хранение"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "github": "https://github.com/username/bbirth"
+      }
+    },
+    {
+      "id": 12,
+      "title": "NFT ART Generator",
+      "shortDescription": "Полноценная NFT платформа для создания и торговли",
+      "description": "Полноценная NFT платформа, позволяющая создавать NFT картинки, генерировать, минтить и продавать, есть marketplace, фильтры. Включает разработку парсера цепочки блокчейн и сохранение (backend), создание редактора картинок - сведение слоев, drag&drop слоев, загрузка и сохранение проекта, загрузка и вычисление прогресса загрузки в IPFS. Оптимизирован алгоритм генерации вариантов NFT - с 10 минут до 5 секунд.",
+      "screenshots": [
+        "/portfolio/radianceteam/nft-art-generator/img/1.jpeg",
+        "/portfolio/radianceteam/nft-art-generator/img/2.jpeg"
+      ],
+      "technologies": ["NestJS", "PostgreSQL", "TypeORM", "GraphQL", "Web3.js", "IPFS"],
+      "location": "США",
+      "features": [
+        "Создание и генерация NFT",
+        "Редактор изображений",
+        "Drag & Drop слоев",
+        "Marketplace для торговли",
+        "Интеграция с IPFS",
+        "Оптимизированные алгоритмы"
+      ],
+      "demoVideo": "https://www.youtube.com/watch?v=RsrmjFJv8Do",
+      "links": {
+        "demo": "https://nft-art-publisher.com/nft-market"
+      }
+    },
+    {
+      "id": 13,
+      "title": "Bounty Board (Trello Plugin)",
+      "shortDescription": "Блокчейн плагин для Trello с автоматизацией выплат",
+      "description": "Плагин Trello, который интегрирует блокчейн возможности в сервис Trello. Автоматизирует и делает безопасными сделки между работниками и работодателями. Позволяет к каждой карточке крепить определенную сумму денег. Любой работник может нажать взять задачу на выполнение и присоединить свой кошелек. При завершении задачи деньги автоматически приходят ему на кошелек. Алгоритм очень похож на escrow.",
+      "screenshots": ["/placeholder.svg?height=400&width=600", "/placeholder.svg?height=400&width=600"],
+      "technologies": ["Trello API", "Smart Contracts", "Web3.js", "Escrow", "Blockchain"],
+      "location": "США",
+      "features": [
+        "Интеграция с Trello",
+        "Автоматические выплаты",
+        "Escrow механизм",
+        "Привязка кошельков",
+        "Безопасные сделки",
+        "Управление задачами"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "github": "https://github.com/username/bounty-board"
+      }
+    },
+    {
+      "id": 14,
+      "title": "Airdrop DApp",
+      "shortDescription": "Децентрализованное приложение для массовой рассылки токенов",
+      "description": "Маленькое децентрализованное приложение, которое позволяет быстро со своего кошелька разослать огромному количеству получателей индивидуальную сумму токенов. Может упростить рутинную операцию раздачи наград или даже зарплаты.",
+      "screenshots": ["/placeholder.svg?height=400&width=600", "/placeholder.svg?height=400&width=600"],
+      "technologies": ["React.js", "Web3.js", "Smart Contracts", "Ethereum", "MetaMask"],
+      "location": "Россия",
+      "features": [
+        "Массовая рассылка токенов",
+        "Индивидуальные суммы для получателей",
+        "Интеграция с кошельками",
+        "Автоматизация выплат",
+        "Простой интерфейс",
+        "Экономия газа"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "demo": "https://airdrop-demo.example.com"
+      }
+    },
+    {
+      "id": 15,
+      "title": "Defispace",
+      "shortDescription": "Децентрализованный финансовый сервис (DeFi) на блокчейне Everscale",
+      "description": "Полнофункциональная DeFi платформа, работающая на блокчейне Everscale (FreeTON), которая позволяет обменивать токены внутри сети, перемещать токены в другие блокчейн-сети (bridge), осуществлять трейдинг и стейкинг активов. Содержит все элементы стандартной криптовалютной биржи (аналог Uniswap).",
+      "screenshots": ["/placeholder.svg?height=400&width=600", "/placeholder.svg?height=400&width=600"],
+      "technologies": ["Everscale", "FreeTON", "DeFi", "Smart Contracts", "Web3", "Blockchain"],
+      "location": "США",
+      "features": [
+        "Обмен токенов внутри сети",
+        "Межсетевые мосты (bridge)",
+        "Трейдинг активов",
+        "Стейкинг токенов",
+        "Farming pools",
+        "Децентрализованная архитектура"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "github": "https://github.com/radianceteam/defispace"
+      }
+    }
+  ]
+}

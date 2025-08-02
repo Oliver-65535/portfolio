@@ -1,0 +1,72 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-Commerce API",
+      "shortDescription": "Масштабируемое API для интернет-магазина с микросервисной архитектурой",
+      "description": "Полнофункциональное API для e-commerce платформы, включающее управление товарами, заказами, пользователями и платежами. Реализована микросервисная архитектура с использованием Docker и Kubernetes.",
+      "screenshots": ["/placeholder.svg?height=400&width=600", "/placeholder.svg?height=400&width=600"],
+      "technologies": ["Node.js", "NestJS", "PostgreSQL", "Redis", "Docker", "Kubernetes", "JWT"],
+      "location": "Удаленно",
+      "features": [
+        "Аутентификация и авторизация",
+        "Управление товарами и категориями",
+        "Система заказов и корзины",
+        "Интеграция с платежными системами",
+        "Админ панель",
+        "API документация"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "github": "https://github.com/username/ecommerce-api",
+        "demo": "https://api-demo.example.com",
+        "docs": "https://docs.example.com"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Real-time Chat System",
+      "shortDescription": "Система реального времени для чата с поддержкой групп и файлов",
+      "description": "Современная система чата с поддержкой реального времени, групповых чатов, отправки файлов и уведомлений. Использует WebSocket для мгновенной доставки сообщений.",
+      "screenshots": ["/placeholder.svg?height=400&width=600", "/placeholder.svg?height=400&width=600"],
+      "technologies": ["Node.js", "Socket.io", "Express", "MongoDB", "Redis", "JWT", "Multer"],
+      "location": "Офис",
+      "features": [
+        "Реальное время общение",
+        "Групповые чаты",
+        "Отправка файлов и изображений",
+        "Push уведомления",
+        "История сообщений",
+        "Статус онлайн/оффлайн"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "github": "https://github.com/username/chat-system",
+        "demo": "https://chat-demo.example.com"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Task Management API",
+      "shortDescription": "RESTful API для управления задачами и проектами команды",
+      "description": "Комплексное решение для управления задачами, проектами и командной работы. Включает систему ролей, уведомления, отчеты и интеграции с внешними сервисами.",
+      "screenshots": ["/placeholder.svg?height=400&width=600", "/placeholder.svg?height=400&width=600"],
+      "technologies": ["NestJS", "TypeScript", "PostgreSQL", "TypeORM", "Bull Queue", "Swagger"],
+      "location": "Гибрид",
+      "features": [
+        "Управление проектами и задачами",
+        "Система ролей и прав доступа",
+        "Временные метки и дедлайны",
+        "Уведомления и напоминания",
+        "Отчеты и аналитика",
+        "API документация"
+      ],
+      "demoVideo": "/placeholder.mp4",
+      "links": {
+        "github": "https://github.com/username/task-api",
+        "demo": "https://tasks-demo.example.com",
+        "docs": "https://task-docs.example.com"
+      }
+    }
+  ]
+}

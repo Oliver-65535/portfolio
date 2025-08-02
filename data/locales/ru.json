@@ -1,0 +1,216 @@
+{
+  "nav": {
+    "home": "Главная",
+    "about": "Обо мне",
+    "portfolio": "Портфолио",
+    "calculator": "Калькулятор",
+    "order": "Заказать",
+    "contacts": "Контакты"
+  },
+  "common": {
+    "backToPortfolio": "Вернуться к портфолио",
+    "learnMore": "Узнать больше",
+    "contactMe": "Связаться со мной",
+    "orderDevelopment": "Заказать разработку",
+    "viewWorks": "Посмотреть работы",
+    "gallery": "Галерея",
+    "video": "Видео",
+    "demo": "Демо",
+    "github": "GitHub",
+    "sourceCode": "Исходный код",
+    "documentation": "Документация",
+    "demoVersion": "Демо версия",
+    "mainFeatures": "Основные функции",
+    "features": "Основные функции",
+    "additionalFeatures": "дополнительных функций",
+    "technologies": "Технологии",
+    "location": "Локация",
+    "aboutProject": "О проекте",
+    "functionality": "Функционал",
+    "links": "Ссылки",
+    "loading": "Загрузка...",
+    "submit": "Отправить",
+    "cancel": "Отменить",
+    "close": "Закрыть",
+    "next": "Далее",
+    "previous": "Назад",
+    "readyToStart": "Готовы начать проект?",
+    "discussProject": "Обсудить проект"
+  },
+  "home": {
+    "greeting": "Привет, я",
+    "subtitle": "Backend Developer",
+    "description": "Node.js • TypeScript • NestJS",
+    "bio": "Опытный backend разработчик с 3+ годами опыта создания масштабируемых веб-приложений и API. Специализируюсь на Node.js, TypeScript и современных фреймворках.",
+    "skillsTitle": "Технологии и навыки",
+    "skillsSubtitle": "Инструменты, которые я использую для создания качественных решений",
+    "backendDevelopment": "Backend Development",
+    "backendDescription": "Создание масштабируемых серверных приложений и API",
+    "databaseDesign": "Database Design",
+    "databaseDescription": "Проектирование и оптимизация баз данных",
+    "apiDevelopment": "API Development",
+    "apiDescription": "RESTful и GraphQL API с документацией",
+    "ctaTitle": "Готовы начать проект?",
+    "ctaSubtitle": "Свяжитесь со мной, чтобы обсудить ваши идеи и воплотить их в жизнь",
+    "viewPortfolio": "Посмотреть работы",
+    "contactMe": "Связаться со мной",
+    "orderDevelopment": "Заказать разработку",
+    "learnMore": "Узнать больше"
+  },
+  "about": {
+    "title": "Обо мне",
+    "description": "Узнайте больше о моем опыте и подходе к разработке",
+    "aboutMe": "О себе",
+    "workExperience": "Опыт работы",
+    "technicalSkills": "Технические навыки",
+    "workPhilosophy": "Подход к работе",
+    "codeQuality": "Качество кода",
+    "codeQualityDescription": "Пишу чистый, читаемый и поддерживаемый код с покрытием тестами",
+    "performance": "Производительность",
+    "performanceDescription": "Оптимизирую приложения для максимальной скорости и эффективности",
+    "scalability": "Масштабируемость",
+    "scalabilityDescription": "Проектирую архитектуру с учетом будущего роста и развития",
+    "communication": "Коммуникация",
+    "communicationDescription": "Поддерживаю открытое общение и регулярно отчитываюсь о прогрессе",
+    "experience": "3+ лет опыта",
+    "role": "Senior Developer",
+    "location": "Москва, Россия",
+    "passion": "Я увлечен созданием эффективных и масштабируемых решений, которые решают реальные бизнес-задачи. Постоянно изучаю новые технологии и лучшие практики разработки.",
+    "freeTime": "В свободное время изучаю архитектурные паттерны, участвую в open-source проектах и делюсь знаниями с сообществом разработчиков."
+  },
+  "portfolio": {
+    "title": "Портфолио",
+    "description": "Коллекция моих проектов, демонстрирующих опыт в backend разработке, создании API и работе с современными технологиями",
+    "projectNotFound": "Проект не найден",
+    "aboutProject": "О проекте",
+    "clientCountry": "Страна заказчика",
+    "technologies": "Технологии",
+    "functionality": "Функционал",
+    "quickActions": {
+      "calculator": {
+        "title": "Калькулятор стоимости",
+        "description": "Получите предварительную оценку стоимости вашего проекта",
+        "buttonText": "Рассчитать стоимость"
+      },
+      "order": {
+        "title": "Заказать разработку",
+        "description": "Обсудите ваш проект и получите персональное предложение",
+        "buttonText": "Заказать проект"
+      }
+    }
+  },
+  "calculator": {
+    "title": "Калькулятор стоимости",
+    "subtitle": "Получите предварительную оценку стоимости и сроков разработки вашего проекта",
+    "projectType": {
+      "title": "Тип проекта",
+      "description": "Выберите сложность вашего проекта",
+      "baseTime": "Базовое время"
+    },
+    "features": {
+      "title": "Функционал",
+      "description": "Выберите необходимые функции для вашего проекта"
+    },
+    "additionalParams": {
+      "title": "Дополнительные параметры",
+      "complexity": "Сложность интеграций",
+      "complexityDescription": "Насколько сложные интеграции с внешними сервисами требуются",
+      "timeline": "Срочность",
+      "timelineDescription": "В какие сроки нужно завершить проект"
+    },
+    "estimation": {
+      "title": "Оценка проекта",
+      "baseCost": "Базовая стоимость",
+      "features": "Функционал",
+      "projectType": "Тип проекта",
+      "complexity": "Сложность",
+      "timeline": "Срочность",
+      "disclaimer": "* Это предварительная оценка. Точная стоимость определяется после детального анализа требований."
+    },
+    "selectedFeatures": {
+      "title": "Выбранный функционал"
+    },
+    "weeks": "недель",
+    "weeksShort": "нед",
+    "orderProject": "Заказать проект"
+  },
+  "order": {
+    "title": "Заказать разработку",
+    "subtitle": "Расскажите о вашем проекте, и я подготовлю детальное предложение с оценкой стоимости и сроков",
+    "formTitle": "Детали проекта",
+    "formDescription": "Заполните форму максимально подробно для точной оценки",
+    "nameLabel": "Имя",
+    "emailLabel": "Email",
+    "phoneLabel": "Телефон",
+    "companyLabel": "Компания",
+    "projectTypeLabel": "Тип проекта",
+    "budgetLabel": "Бюджет",
+    "timeframeLabel": "Сроки",
+    "descriptionLabel": "Описание проекта",
+    "descriptionPlaceholder": "Опишите ваш проект максимально подробно: цели, функционал, особые требования, интеграции...",
+    "additionalOptionsLabel": "Дополнительно",
+    "hasDesignLabel": "У меня есть готовый дизайн/макеты",
+    "hasDocumentationLabel": "У меня есть техническая документация",
+    "needsConsultationLabel": "Нужна предварительная консультация",
+    "submitButton": "Отправить заявку",
+    "processTitle": "Следующие шаги",
+    "usefulLinksTitle": "Полезные ссылки",
+    "calculatorLink": "Калькулятор стоимости",
+    "portfolioLink": "Примеры работ",
+    "contactDirectlyTitle": "Связаться напрямую",
+    "phone": "Телефон",
+    "guaranteesTitle": "Гарантии",
+    "guaranteeResponse": "Ответ в течение 24 часов",
+    "guaranteeConsultation": "Бесплатная консультация",
+    "guaranteeFixedCost": "Фиксированная стоимость",
+    "guaranteeSupport": "Поддержка после запуска",
+    "successTitle": "Заявка отправлена!",
+    "successSubtitle": "Спасибо за ваш интерес! Я свяжусь с вами в течение 24 часов для обсуждения деталей проекта.",
+    "portfolioButton": "Посмотреть портфолио",
+    "contactsButton": "Контакты",
+    "selectTypePlaceholder": "Выберите тип",
+    "selectBudgetPlaceholder": "Выберите бюджет",
+    "selectTimeframePlaceholder": "Выберите сроки"
+  },
+  "contacts": {
+    "title": "Контакты",
+    "subtitle": "Готов обсудить ваш проект и ответить на все вопросы. Свяжитесь со мной любым удобным способом",
+    "contactInformation": {
+      "title": "Контактная информация",
+      "emailLabel": "Email",
+      "phoneLabel": "Телефон",
+      "locationLabel": "Местоположение",
+      "workingHoursLabel": "Рабочие часы"
+    },
+    "socialLinks": {
+      "title": "Социальные сети",
+      "description": "Подписывайтесь на мои профили для получения обновлений"
+    },
+    "orderProcess": {
+      "description": "Простой и прозрачный процесс от идеи до готового продукта"
+    },
+    "cta": {
+      "title": "Готовы начать?",
+      "description": "Напишите мне о вашем проекте, и я отвечу в течение 24 часов",
+      "freeConsultation": "Бесплатная консультация",
+      "fastResponse": "Быстрый ответ в течение дня",
+      "detailedAssessment": "Детальная оценка проекта",
+      "emailButton": "Написать на Email"
+    },
+    "faq": {
+      "title": "Часто задаваемые вопросы",
+      "question1": {
+        "title": "Сколько стоит разработка?",
+        "answer": "Стоимость зависит от сложности проекта. Базовое API от 50,000₽, сложные системы от 150,000₽."
+      },
+      "question2": {
+        "title": "Какие сроки разработки?",
+        "answer": "Простые проекты 2-4 недели, средние 1-2 месяца, сложные системы 3+ месяца."
+      },
+      "question3": {
+        "title": "Предоставляете ли поддержку?",
+        "answer": "Да, предоставляю техническую поддержку и сопровождение проектов после запуска."
+      }
+    }
+  }
+}
