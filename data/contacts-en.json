@@ -1,0 +1,44 @@
+{
+  "email": "oleg.tarasov@example.com",
+  "phone": "+7 (999) 123-45-67",
+  "location": "Moscow, Russia",
+  "timezone": "UTC+3",
+  "social": {
+    "github": "https://github.com/oleg-tarasov",
+    "linkedin": "https://linkedin.com/in/oleg-tarasov-dev",
+    "telegram": "https://t.me/oleg_dev",
+    "email": "oleg.tarasov@example.com"
+  },
+  "availability": "Open for new projects",
+  "workingHours": "Mon-Fri: 9:00-18:00 (MSK)",
+  "orderProcess": {
+    "title": "How to order development",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Project discussion",
+        "description": "Contact me in any convenient way and tell me about your project"
+      },
+      {
+        "step": 2,
+        "title": "Technical specification",
+        "description": "We create detailed specifications with functionality, technologies and timelines"
+      },
+      {
+        "step": 3,
+        "title": "Estimation and contract",
+        "description": "I provide cost and timeline estimates, we sign a contract"
+      },
+      {
+        "step": 4,
+        "title": "Development",
+        "description": "I start working on the project with regular progress reports"
+      },
+      {
+        "step": 5,
+        "title": "Testing and delivery",
+        "description": "We test the finished solution and deliver it to you with documentation"
+      }
+    ]
+  }
+}

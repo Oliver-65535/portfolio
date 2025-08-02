@@ -1,0 +1,215 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "portfolio": "Portfolio",
+    "calculator": "Calculator",
+    "order": "Order",
+    "contacts": "Contacts"
+  },
+  "common": {
+    "backToPortfolio": "Back to Portfolio",
+    "learnMore": "Learn More",
+    "contactMe": "Contact Me",
+    "orderDevelopment": "Order Development",
+    "viewWorks": "View Works",
+    "gallery": "Gallery",
+    "video": "Video",
+    "demo": "Demo",
+    "github": "GitHub",
+    "sourceCode": "Source Code",
+    "documentation": "Documentation",
+    "demoVersion": "Demo Version",
+    "mainFeatures": "Main Features",
+    "features": "Main Features",
+    "additionalFeatures": "additional features",
+    "technologies": "Technologies",
+    "location": "Location",
+    "aboutProject": "About Project",
+    "functionality": "Functionality",
+    "links": "Links",
+    "loading": "Loading...",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "close": "Close",
+    "next": "Next",
+    "previous": "Previous",
+    "readyToStart": "Ready to start a project?",
+    "discussProject": "Discuss Project"
+  },
+  "home": {
+    "greeting": "Hi, I'm",
+    "subtitle": "Backend Developer",
+    "description": "Node.js • TypeScript • NestJS",
+    "bio": "Experienced backend developer with 3+ years of experience creating scalable web applications and APIs. I specialize in Node.js, TypeScript and modern frameworks.",
+    "skillsTitle": "Technologies and Skills",
+    "skillsSubtitle": "Tools I use to create quality solutions",
+    "backendDevelopment": "Backend Development",
+    "backendDescription": "Creating scalable server applications and APIs",
+    "databaseDesign": "Database Design",
+    "databaseDescription": "Database design and optimization",
+    "apiDevelopment": "API Development",
+    "apiDescription": "RESTful and GraphQL APIs with documentation",
+    "ctaTitle": "Ready to start a project?",
+    "ctaSubtitle": "Contact me to discuss your ideas and bring them to life",
+    "viewPortfolio": "View Works",
+    "contactMe": "Contact Me",
+    "orderDevelopment": "Order Development",
+    "learnMore": "Learn More"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "Learn more about my experience and approach to development",
+    "aboutMe": "About Myself",
+    "workExperience": "Work Experience",
+    "technicalSkills": "Technical Skills",
+    "workPhilosophy": "Work Philosophy",
+    "codeQuality": "Code Quality",
+    "codeQualityDescription": "I write clean, readable and maintainable code with test coverage",
+    "performance": "Performance",
+    "performanceDescription": "I optimize applications for maximum speed and efficiency",
+    "scalability": "Scalability",
+    "scalabilityDescription": "I design architecture with future growth and development in mind",
+    "communication": "Communication",
+    "communicationDescription": "I maintain open communication and report progress regularly",
+    "experience": "3+ years experience",
+    "role": "Senior Developer",
+    "location": "Moscow, Russia",
+    "passion": "I am passionate about creating efficient and scalable solutions that solve real business problems. I constantly study new technologies and development best practices.",
+    "freeTime": "In my free time, I study architectural patterns, participate in open-source projects and share knowledge with the developer community."
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "description": "Collection of my projects demonstrating experience in backend development, API creation and working with modern technologies",
+    "projectNotFound": "Project Not Found",
+    "aboutProject": "About Project",
+    "clientCountry": "Client Country",
+    "technologies": "Technologies",
+    "functionality": "Functionality",
+    "quickActions": {
+      "calculator": {
+        "title": "Cost Calculator",
+        "description": "Get a preliminary estimate of your project cost",
+        "buttonText": "Calculate Cost"
+      },
+      "order": {
+        "title": "Order Development",
+        "description": "Discuss your project and get a personalized offer",
+        "buttonText": "Order Project"
+      }
+    }
+  },
+  "calculator": {
+    "title": "Cost Calculator",
+    "subtitle": "Get a preliminary estimate of the cost and timeline for developing your project",
+    "projectType": {
+      "title": "Project Type",
+      "description": "Choose the complexity of your project",
+      "baseTime": "Base time"
+    },
+    "features": {
+      "title": "Functionality",
+      "description": "Select the necessary features for your project"
+    },
+    "additionalParams": {
+      "title": "Additional Parameters",
+      "complexity": "Integration Complexity",
+      "complexityDescription": "How complex integrations with external services are required",
+      "timeline": "Urgency",
+      "timelineDescription": "What timeline is needed to complete the project"
+    },
+    "estimation": {
+      "title": "Project Estimate",
+      "baseCost": "Base Cost",
+      "features": "Features",
+      "projectType": "Project Type",
+      "complexity": "Complexity",
+      "timeline": "Timeline",
+      "disclaimer": "* This is a preliminary estimate. Exact cost is determined after detailed requirements analysis."
+    },
+    "selectedFeatures": {
+      "title": "Selected Features"
+    },
+    "weeks": "weeks",
+    "weeksShort": "wk"
+  },
+  "order": {
+    "title": "Order Development",
+    "subtitle": "Tell us about your project and I'll prepare a detailed proposal with cost and timeline estimates",
+    "formTitle": "Project Details",
+    "formDescription": "Fill out the form as detailed as possible for accurate estimation",
+    "nameLabel": "Name",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "companyLabel": "Company",
+    "projectTypeLabel": "Project Type",
+    "budgetLabel": "Budget",
+    "timeframeLabel": "Timeframe",
+    "descriptionLabel": "Project Description",
+    "descriptionPlaceholder": "Describe your project in as much detail as possible: goals, functionality, special requirements, integrations...",
+    "additionalOptionsLabel": "Additional",
+    "hasDesignLabel": "I have ready design/mockups",
+    "hasDocumentationLabel": "I have technical documentation",
+    "needsConsultationLabel": "Need preliminary consultation",
+    "submitButton": "Submit Order",
+    "processTitle": "Next Steps",
+    "usefulLinksTitle": "Useful Links",
+    "calculatorLink": "Cost Calculator",
+    "portfolioLink": "Work Examples",
+    "contactDirectlyTitle": "Contact Directly",
+    "phone": "Phone",
+    "guaranteesTitle": "Guarantees",
+    "guaranteeResponse": "Response within 24 hours",
+    "guaranteeConsultation": "Free consultation",
+    "guaranteeFixedCost": "Fixed price",
+    "guaranteeSupport": "Post-launch support",
+    "successTitle": "Order Sent!",
+    "successSubtitle": "Thank you for your interest! I will contact you within 24 hours to discuss project details.",
+    "portfolioButton": "View Portfolio",
+    "contactsButton": "Contacts",
+    "selectTypePlaceholder": "Select type",
+    "selectBudgetPlaceholder": "Select budget",
+    "selectTimeframePlaceholder": "Select timeframe"
+  },
+  "contacts": {
+    "title": "Contacts",
+    "subtitle": "Ready to discuss your project and answer all questions. Contact me in any convenient way",
+    "contactInformation": {
+      "title": "Contact Information",
+      "emailLabel": "Email",
+      "phoneLabel": "Phone",
+      "locationLabel": "Client Country",
+      "workingHoursLabel": "Working Hours"
+    },
+    "socialLinks": {
+      "title": "Social Networks",
+      "description": "Follow my profiles for updates"
+    },
+    "orderProcess": {
+      "description": "Simple and transparent process from idea to finished product"
+    },
+    "cta": {
+      "title": "Ready to Start?",
+      "description": "Write to me about your project and I'll respond within 24 hours",
+      "freeConsultation": "Free consultation",
+      "fastResponse": "Fast response within a day",
+      "detailedAssessment": "Detailed project assessment",
+      "emailButton": "Write Email"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "question1": {
+        "title": "How much does development cost?",
+        "answer": "Cost depends on project complexity. Basic API from $600, complex systems from $1,800."
+      },
+      "question2": {
+        "title": "What are the development timelines?",
+        "answer": "Simple projects 2-4 weeks, medium 1-2 months, complex systems 3+ months."
+      },
+      "question3": {
+        "title": "Do you provide support?",
+        "answer": "Yes, I provide technical support and project maintenance after launch."
+      }
+    }
+  }
+}

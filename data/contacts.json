@@ -1,0 +1,44 @@
+{
+  "email": "oleg.tarasov@example.com",
+  "phone": "+7 (999) 123-45-67",
+  "location": "Москва, Россия",
+  "timezone": "UTC+3",
+  "social": {
+    "github": "https://github.com/oleg-tarasov",
+    "linkedin": "https://linkedin.com/in/oleg-tarasov-dev",
+    "telegram": "https://t.me/oleg_dev",
+    "email": "oleg.tarasov@example.com"
+  },
+  "availability": "Открыт для новых проектов",
+  "workingHours": "Пн-Пт: 9:00-18:00 (МСК)",
+  "orderProcess": {
+    "title": "Как заказать разработку",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Обсуждение проекта",
+        "description": "Связываетесь со мной любым удобным способом и рассказываете о вашем проекте"
+      },
+      {
+        "step": 2,
+        "title": "Техническое задание",
+        "description": "Составляем детальное ТЗ с описанием функционала, технологий и сроков"
+      },
+      {
+        "step": 3,
+        "title": "Оценка и договор",
+        "description": "Предоставляю оценку стоимости и сроков, заключаем договор"
+      },
+      {
+        "step": 4,
+        "title": "Разработка",
+        "description": "Начинаю работу над проектом с регулярными отчетами о прогрессе"
+      },
+      {
+        "step": 5,
+        "title": "Тестирование и сдача",
+        "description": "Тестируем готовое решение и передаем вам с документацией"
+      }
+    ]
+  }
+}

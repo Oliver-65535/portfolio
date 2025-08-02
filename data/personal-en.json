@@ -1,0 +1,46 @@
+{
+  "name": "Oleg Tarasov",
+  "title": "Backend Developer",
+  "subtitle": "Node.js • TypeScript • NestJS • Blockchain",
+  "bio": "Experienced backend developer with 3+ years of experience creating scalable web applications, APIs and blockchain solutions. I specialize in Node.js, TypeScript, NestJS and Web3 technologies.",
+  "avatar": "/avatar/avatar.jpg?height=300&width=300",
+  "availability": "Open for new projects",
+  "skills": [
+    { "name": "Node.js" },
+    { "name": "TypeScript" },
+    { "name": "NestJS" },
+    { "name": "Express.js" },
+    { "name": "PostgreSQL" },
+    { "name": "MongoDB" },
+    { "name": "Redis" },
+    { "name": "Docker" },
+    { "name": "Web3.js" },
+    { "name": "GraphQL" },
+    { "name": "REST API" },
+    { "name": "Microservices" },
+    { "name": "Blockchain" },
+    { "name": "Smart Contracts" },
+    { "name": "DeFi" },
+    { "name": "NFT" },
+    { "name": "IPFS" },
+    { "name": "RabbitMQ" },
+    { "name": "TypeORM" },
+    { "name": "Solana" },
+    { "name": "Ethereum" },
+    { "name": "Polygon" }
+  ],
+  "experience": [
+    {
+      "company": "RadianceTeam",
+      "position": "Senior Blockchain Developer",
+      "period": "2022 - present",
+      "description": "Development of DeFi platforms, NFT solutions, cryptocurrency bridges and blockchain applications. Working with Everscale, Ethereum, Solana, Polygon networks."
+    },
+    {
+      "company": "SFXDX",
+      "position": "Backend Developer",
+      "period": "2020 - 2022",
+      "description": "Creating fintech applications, P2P platforms, crowdfunding solutions. External API integration, microservice architecture development."
+    }
+  ]
+}
