@@ -80,7 +80,7 @@
   },
   "portfolio": {
     "title": "Portfolio",
-    "description": "Collection of my projects demonstrating experience in backend development, API creation and working with modern technologies",
+    "description": "Collection of projects with my participation, demonstrating experience in backend development, API creation and working with modern technologies",
     "projectNotFound": "Project Not Found",
     "aboutProject": "About Project",
     "clientCountry": "Client Country",

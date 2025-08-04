@@ -2,7 +2,7 @@
   "name": "Олег Тарасов",
   "title": "Backend Developer",
   "subtitle": "Node.js • TypeScript • NestJS • Blockchain",
-  "bio": "Опытный backend разработчик с 3+ годами опыта создания масштабируемых веб-приложений, API и блокчейн решений. Специализируюсь на Node.js, TypeScript, NestJS и Web3 технологиях.",
+  "bio": "Опытный backend разработчик с 5+ годами опыта создания масштабируемых веб-приложений, API и блокчейн решений. Специализируюсь на Node.js, TypeScript, NestJS и Web3 технологиях.",
   "avatar": "/avatar/avatar.jpg?height=300&width=300",
   "availability": "Открыт для новых проектов",
   "skills": [
@@ -31,16 +31,16 @@
   ],
   "experience": [
     {
-      "company": "RadianceTeam",
-      "position": "Senior Blockchain Developer",
-      "period": "2022 - настоящее время",
-      "description": "Разработка DeFi платформ, NFT решений, криптовалютных мостов и блокчейн приложений. Работа с Everscale, Ethereum, Solana, Polygon сетями."
-    },
-    {
       "company": "SFXDX",
       "position": "Backend Developer",
-      "period": "2020 - 2022",
+      "period": "2023 - 2025",
       "description": "Создание финтех приложений, P2P платформ, краудфандинг решений. Интеграция с внешними API, разработка микросервисной архитектуры."
+    },
+    {
+      "company": "RadianceTeam",
+      "position": "Full Stack Developer",
+      "period": "2021 - 2023",
+      "description": "Разработка DeFi платформ, NFT решений, криптовалютных мостов и блокчейн приложений. Работа с Everscale, Ethereum сетями."
     }
   ]
 }

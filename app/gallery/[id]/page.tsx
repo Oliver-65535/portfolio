@@ -169,9 +169,8 @@ export default function GalleryPage({ params }: PageProps) {
                 </CardHeader>
                 <CardContent className="space-y-4">
                   <p className="text-muted-foreground">{project.description}</p>
-
                   <div>
-                    <h4 className="font-semibold mb-2">{t.portfolio.location}:</h4>
+                    <h4 className="font-semibold mb-2">{t.portfolio.location}</h4>
                     <Badge variant="secondary">{project.location}</Badge>
                   </div>
 

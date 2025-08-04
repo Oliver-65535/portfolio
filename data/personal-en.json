@@ -2,7 +2,7 @@
   "name": "Oleg Tarasov",
   "title": "Backend Developer",
   "subtitle": "Node.js • TypeScript • NestJS • Blockchain",
-  "bio": "Experienced backend developer with 3+ years of experience creating scalable web applications, APIs and blockchain solutions. I specialize in Node.js, TypeScript, NestJS and Web3 technologies.",
+  "bio": "Experienced backend developer with 5+ years of experience creating scalable web applications, APIs and blockchain solutions. I specialize in Node.js, TypeScript, NestJS and Web3 technologies.",
   "avatar": "/avatar/avatar.jpg?height=300&width=300",
   "availability": "Open for new projects",
   "skills": [
@@ -31,16 +31,16 @@
   ],
   "experience": [
     {
-      "company": "RadianceTeam",
-      "position": "Senior Blockchain Developer",
-      "period": "2022 - present",
-      "description": "Development of DeFi platforms, NFT solutions, cryptocurrency bridges and blockchain applications. Working with Everscale, Ethereum, Solana, Polygon networks."
-    },
-    {
       "company": "SFXDX",
       "position": "Backend Developer",
-      "period": "2020 - 2022",
+      "period": "2023 - 2025",
       "description": "Creating fintech applications, P2P platforms, crowdfunding solutions. External API integration, microservice architecture development."
+    },
+    {
+      "company": "RadianceTeam",
+      "position": "Full Stack Developer",
+      "period": "2021 - 2023",
+      "description": "Development of DeFi platforms, NFT solutions, cryptocurrency bridges and blockchain applications. Working with Everscale, Ethereum networks."
     }
   ]
 }
