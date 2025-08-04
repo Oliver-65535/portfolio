@@ -2,7 +2,7 @@
   "name": "Олег Тарасов",
   "title": "Backend Developer",
   "subtitle": "Node.js • TypeScript • NestJS",
-  "bio": "Опытный backend разработчик с 3+ годами опыта создания масштабируемых веб-приложений и API. Специализируюсь на Node.js, TypeScript и современных фреймворках.",
+  "bio": "Опытный backend разработчик с 5+ годами опыта создания масштабируемых веб-приложений и API. Специализируюсь на Node.js, TypeScript и современных фреймворках.",
   "avatar": "/avatar/avatar.jpg?height=300&width=300",
   "skills": [
     { "name": "Node.js", "level": 5 },
