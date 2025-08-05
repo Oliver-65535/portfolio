@@ -100,7 +100,6 @@
       ],
       "demoVideo": "/placeholder.mp4",
       "links": {
-        "github": "https://github.com/username/bittensor-bridge"
 
       }
     },
@@ -233,7 +232,7 @@
       ],
       "demoVideo": "/placeholder.mp4",
       "links": {
-        "github": "https://github.com/username/cryptomod-bridge"
+
       }
     },
     {
@@ -296,7 +295,7 @@
       ],
       "demoVideo": "/placeholder.mp4",
       "links": {
-        "github": "https://github.com/username/bbirth"
+
       }
     },
     {
@@ -363,7 +362,7 @@
       ],
       "demoVideo": "/placeholder.mp4",
       "links": {
-        "github": "https://github.com/username/bounty-board"
+
       }
     },
     {
@@ -413,7 +412,7 @@
       ],
       "demoVideo": "/placeholder.mp4",
       "links": {
-        "github": "https://github.com/radianceteam/defispace"
+
       }
     }
   ]

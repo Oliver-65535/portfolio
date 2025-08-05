@@ -18,7 +18,6 @@
       ],
       "demoVideo": "/placeholder.mp4",
       "links": {
-        "github": "https://github.com/username/ecommerce-api",
         "demo": "https://api-demo.example.com",
         "docs": "https://docs.example.com"
       }
@@ -41,7 +40,6 @@
       ],
       "demoVideo": "/placeholder.mp4",
       "links": {
-        "github": "https://github.com/username/chat-system",
         "demo": "https://chat-demo.example.com"
       }
     },
@@ -63,7 +61,6 @@
       ],
       "demoVideo": "/placeholder.mp4",
       "links": {
-        "github": "https://github.com/username/task-api",
         "demo": "https://tasks-demo.example.com",
         "docs": "https://task-docs.example.com"
       }
