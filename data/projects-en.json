@@ -198,7 +198,12 @@
       "title": "Stargate Multi Bridge",
       "shortDescription": "Multi-cryptocurrency bridge for multiple networks",
       "description": "Multi-cryptocurrency bridge allowing token transfers from multiple networks to others. Includes listener for ETH, Polygon, BSC networks, transaction storage and linking, past transaction recovery, transaction execution across different networks.",
-      "screenshots": ["/placeholder.svg?height=400&width=600", "/placeholder.svg?height=400&width=600"],
+      "screenshots": [
+        "https://ynnuewfkwdfokae9.public.blob.vercel-storage.com/portfolio/sfxdx/stargate/img/1.jpeg",
+        "https://ynnuewfkwdfokae9.public.blob.vercel-storage.com/portfolio/sfxdx/stargate/img/2.jpeg",
+        "https://ynnuewfkwdfokae9.public.blob.vercel-storage.com/portfolio/sfxdx/stargate/img/3.jpeg",
+        "https://ynnuewfkwdfokae9.public.blob.vercel-storage.com/portfolio/sfxdx/stargate/img/4.jpeg" 
+      ],
       "technologies": ["NestJS", "PostgreSQL", "MongoDB", "TypeORM", "RabbitMQ", "Redis", "Web3.js"],
       "location": "USA",
       "features": [
